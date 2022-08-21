@@ -1,52 +1,29 @@
 ---
-title: elements
+title: Lic. Economía UNLP
 ---
+En primer término, quiero compartir el link del
+canal de Youtube que tiene una gran cantidad de 
+clases. 
 
-## Table of contents
+**[Aguante la virtualidad FCE L.E](https://www.youtube.com/channel/UCHG65OJcSci9BMlgjQCwrPg/videos)**
+<https://www.youtube.com/channel/UCHG65OJcSci9BMlgjQCwrPg/videos>
 
-- [Table of contents](#table-of-contents)
-- [Text](#text)
-- [Code](#code)
-  - [Python](#python)
-  - [C/C++](#cc)
-  - [Bash](#bash)
-- [Tables](#tables)
+## MATERIAS
 
-## Text
+**1. Primero**
+- Materia
+   
+   Pdf
 
-Some example text
+   videos
 
-## Code
+**2. Segundo**
 
-### Python
+**3. Tercero**
 
-```python
-def foo():
-    print ("This is a python function")
-```
+**4. Cuarto**
 
-### C/C++
+**5. Quinto**
 
-```C
-void foo(){
-    prinf("%s\n", "This is a C function")
-}
-```
 
-### Bash
 
-```bash
-# This is a bash command
-cd dir && echo $PWD;
-
-# Return
-exit 0;
-```
-
-## Tables
-
-| Pages | Elements |
-| ----- | -------- |
-| 1     | Text     |
-| 2     | Code     |
-| 3     | Tables   |
