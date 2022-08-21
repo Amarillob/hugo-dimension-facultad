@@ -1,6 +1,8 @@
 ---
 title: Lic. Economía UNLP
 ---
+(NOTA: estoy recolectando el material pertinente, esto seguro me tome varios días. Cualquier ayuda es bienvenida.)
+
 En primer término, quiero compartir el link del
 canal de Youtube que tiene una gran cantidad de 
 clases. 

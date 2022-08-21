@@ -4,6 +4,16 @@
     <title>{{ .Params.Title | default "Title" }}</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+
+    <meta content = "/images/logo.png" itemprop = "image">
+
+    <!--
+        <meta content = "/images/logo.png" itemprop = "image">
+        <link rel="icon" href="/images/logo.png" type="image/x-icon">
+    -->
+    <link rel="icon" href="/images/logo.png">
+
+
     <link rel="stylesheet" href="{{ "assets/css/main.css" | absURL }}"/>
     <link rel="canonical" href="{{ .Permalink }}">
     <noscript><link rel="stylesheet" href="{{ "assets/css/noscript.css" | absURL }}"/></noscript>
