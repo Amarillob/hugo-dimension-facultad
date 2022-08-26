@@ -141,6 +141,7 @@ input, select, textarea {
 		}
 
 	body, input, select, textarea {
+		/*DEJAR EN BLANCO*/
 		color: #ffffff;
 		/*color: #ffffff */
 		font-family: "Source Sans Pro", sans-serif;
@@ -180,9 +181,15 @@ input, select, textarea {
 		margin: 0 0 2rem 0;
 	}
 
-	h1, h2, h3, h4, h5, h6 {
+
+
+
+
+
+
+	h1 {
 		color: #ffffff;
-		/*color: #ffffff*/
+		text-decoration: underline;
 		font-weight: 600;
 		line-height: 1.5;
 		margin: 0 0 1rem 0;
@@ -190,13 +197,75 @@ input, select, textarea {
 		letter-spacing: 0.2rem;
 	}
 
-		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-			color: inherit;
-			text-decoration: none;
-		}
+	h2 {
+		color: #ffffff79;
+		font-weight: 600;
+		line-height: 1.5;
+		margin: 0 0 1rem 0;
+		text-transform: uppercase;
+		letter-spacing: 0.2rem;
+	}
+
+	h3 {
+		color: #f18d8d;
+		display: list-item;
+		/*margin-left : 1em;*/
+		text-align: center;
+		font-weight: 600;
+		line-height: 1.5;
+		margin: 0 0 1rem 0;
+		text-transform: uppercase;
+		letter-spacing: 0.2rem;
+	}
+
+	h4 {
+		color: #ffffff;
+		font-weight: 600;
+		line-height: 1.5;
+		margin: 0 0 1rem 0;
+		text-transform: uppercase;
+		letter-spacing: 0.2rem;
+	}
+
+	h5 {
+		color: #ffffff;
+		display: list-item;
+		/*text-align: center;*/
+		font-weight: 600;
+		line-height: 1.5;
+		margin: 0 0 1rem 0;
+		text-transform: uppercase;
+		letter-spacing: 0.2rem;
+	}
+
+	h6 {
+		color: #ffffff;
+		font-weight: 600;
+		line-height: 1.5;
+		margin: 0 0 1rem 0;
+		text-transform: uppercase;
+		letter-spacing: 0.2rem;
+	}
+
+
+	
+
+
+
+	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+		color: rgb(89, 157, 245);
+		text-decoration: none;
+	}	
+
+
+
+
+
 
 		h1.major, h2.major, h3.major, h4.major, h5.major, h6.major {
+			/* SUBRAYA EL TITULOS*/
 			border-bottom: solid 1px #ffffff;
+			/*border-bottom: solid 1px #ffffff;*/
 			width: -moz-max-content;
 			width: -webkit-max-content;
 			width: -ms-max-content;
@@ -260,14 +329,16 @@ input, select, textarea {
 	}
 
 	blockquote {
-		border-left: solid 4px #ffffff;
+		border-left: solid 4px #e90808;
+		/*border-left: solid 4px #ffffff;*/
 		font-style: italic;
 		margin: 0 0 2rem 0;
 		padding: 0.5rem 0 0.5rem 2rem;
 	}
 
 	code {
-		background: rgba(255, 255, 255, 0.075);
+		background: rgba(19, 192, 13, 0.623);
+		/*background: rgba(255, 255, 255, 0.075);*/
 		border-radius: 4px;
 		font-family: "Courier New", monospace;
 		font-size: 0.9rem;
@@ -382,7 +453,8 @@ input, select, textarea {
 		}
 
 	label {
-		color: #ffffff;
+		color: #3fdd17;
+		/*color: #ffffff;*/
 		display: block;
 		font-size: 0.8rem;
 		font-weight: 300;
@@ -448,8 +520,16 @@ input, select, textarea {
 	}
 
 		select option {
+			color: #e70101;
+			background: #0e7fd6;
+/*
 			color: #ffffff;
 			background: #1b1f22;
+
+
+*/
+
+
 		}
 
 		select:focus::-ms-value {
@@ -1193,7 +1273,8 @@ input, select, textarea {
 		}
 
 		body.is-preload #bg:before {
-			background-color: #000000;
+			background-color:  #000000;
+			/*background-color: #000000;*/
 		}
 
 /* Wrapper */
