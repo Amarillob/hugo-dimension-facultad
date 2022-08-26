@@ -2,27 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Material universitario on My New Hugo Site</title>
-    <link>/</link>
+    <link>http://example.org/</link>
     <description>Recent content in Material universitario on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lic. Economía UNLP</title>
-      <link>/elements/</link>
+      <link>http://example.org/elements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/elements/</guid>
-      <description>(NOTA: estoy recolectando el material pertinente, esto seguro me tome varios días. Cualquier ayuda es bienvenida.)
-En primer término, quiero compartir el link del canal de Youtube que tiene una gran cantidad de clases.
-Aguante la virtualidad FCE L.E https://www.youtube.com/channel/UCHG65OJcSci9BMlgjQCwrPg/videos
-MATERIAS 1. Primero
-Materia
-Pdf
-videos
-2. Segundo
-3. Tercero
-4. Cuarto
-5. Quinto</description>
+      <guid>http://example.org/elements/</guid>
+      <description>Primero, les dejo estos canales ya que tienen una gran cantidad de clases y puede ser que algo que acá no encuentren, lo encuentren ahí.
+Cualquier aporte o corrección, manden WhatsApp.
+Aguante la virtualidad FCE L.E Videos de 4to Primer año Segundo cuatrimestre Matemática Teoría y práctica Microeconomía Teoría Práctica Práctica Segundo año Segundo cuatrimestre MPEII Teoría Barraza Práctica TP6 Clase 1 Clase 3 Clase 7 Clase 9 Clase 11 Historia II Clases Tercer año Primer cuatrimestre Estructura Social Argentina Unidad 1 Unidad 2 Unidad 3 Unidad 4 Unidad 5 Unidad 6 Unidad 7 Unidad 8 Estadística II Inés Berniell 2021 Enrique Álverez 2021 Teoría y Práctica 2022 Segundo cuatrimestre Macroeconomía II Todas las claases (en Drive) Clases 5 a 33 Primera Clase Historia del Pensamiento Económico Calderón Streb Cuarto año Primer cuatrimestre Economía Espacial y Ambiental Inés Berniell Dolores Delamata Práctica - Econometría II Lore 2021 Gabi 2021 Lore y Gabi 2020 Economía Internacional Clases Clases Clases Moneda, Crédito y Bancos Clases Clases Segundo cuatrimestre Ciclos Clases Teoría de la Empresa y de la Organización Industrial Cont Coleff Monopolio Práctica TP1 TP2 Sector Público Clases Economía Laboral Clases Quinto año Primer cuatrimestre Finanzas Internacionales Clases Clases Clases Desarrollo Económico Clases Regulación de los Servicios Públicos Clases Segundo cuatrimestre PE I Clases Seminarios Data Analytics Clases Data Science Clases Drive </description>
     </item>
     
   </channel>
