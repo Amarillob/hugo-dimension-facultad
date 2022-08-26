@@ -5,6 +5,9 @@ title: Lic. Economía UNLP
 Primero, les dejo estos canales ya que tienen una gran
 cantidad de clases y puede ser que algo que acá no
 encuentren, lo encuentren ahí.
+
+Cualquier aporte o corrección, manden **[WhatsApp](https://wa.me/541564855951)**.
+
 - **[Aguante la virtualidad FCE L.E](https://www.youtube.com/channel/UCHG65OJcSci9BMlgjQCwrPg/videos)**
 - **[Videos de 4to](https://www.youtube.com/user/ElTucu399/videos)**
 
@@ -127,11 +130,11 @@ encuentren, lo encuentren ahí.
 
 ### Teoría de la Empresa y de la Organización Industrial
 #### [Cont](https://www.youtube.com/playlist?list=PLIZp3AuCoG-4xjqzrZGZSTrl2j0rCs6nu)
-#### [Coleff]
+#### Coleff
 ##### [Monopolio](https://www.youtube.com/watch?v=d36kyRZAkSw&list=PLq4rmIxbzqpQUa33f-zn4xIaO3wiXWlmy)
 
 
-#### [Práctica]
+#### Práctica
 ##### [TP1](https://www.youtube.com/playlist?list=PLIZp3AuCoG-7MiPHkDEsfZadVt5idSEvz)
 ##### [TP2](https://www.youtube.com/watch?v=RQgPo2CXvP0&list=PLQLplbHqP8cHXw3N_3CXlVSxuNl-9vJcM&index=2&t=3s)
 
