@@ -35,6 +35,9 @@ Cualquier aporte o corrección, manden **[WhatsApp](https://wa.me/541564855951)*
 
 
 ## Segundo cuatrimestre
+### Estadistica I
+#### [Teoría Damonte](https://www.youtube.com/playlist?list=PLYyNkHiJvcJ4Zjv_j5L5UxyGZDRF0KTEY)
+
 ### MPEII
 #### [Teoría Barraza](https://www.youtube.com/playlist?list=PLIZp3AuCoG-5_kIm6Hemu2y8Vrrx2rNOs)
 #### Práctica
